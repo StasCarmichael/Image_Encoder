@@ -1,0 +1,10 @@
+C:\Users\stask\source\FullProject\Image_Encoder\Image_Encoder\bin\Debug\Image_Encoder.exe.config
+C:\Users\stask\source\FullProject\Image_Encoder\Image_Encoder\bin\Debug\Image_Encoder.exe
+C:\Users\stask\source\FullProject\Image_Encoder\Image_Encoder\bin\Debug\Image_Encoder.pdb
+C:\Users\stask\source\FullProject\Image_Encoder\Image_Encoder\obj\Debug\Image_Encoder.csprojAssemblyReference.cache
+C:\Users\stask\source\FullProject\Image_Encoder\Image_Encoder\obj\Debug\Project.Properties.Resources.resources
+C:\Users\stask\source\FullProject\Image_Encoder\Image_Encoder\obj\Debug\Image_Encoder.csproj.GenerateResource.cache
+C:\Users\stask\source\FullProject\Image_Encoder\Image_Encoder\obj\Debug\Image_Encoder.csproj.CoreCompileInputs.cache
+C:\Users\stask\source\FullProject\Image_Encoder\Image_Encoder\obj\Debug\Image_Encoder.exe
+C:\Users\stask\source\FullProject\Image_Encoder\Image_Encoder\obj\Debug\Image_Encoder.pdb
+C:\Users\stask\source\FullProject\Image_Encoder\Image_Encoder\obj\Debug\Project.mainForm.resources
